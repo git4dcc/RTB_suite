@@ -19,6 +19,17 @@ Software Suite for running RTB model railway infrastructure.
 ## Installation
 Unzip files into a directory of choice.
 
+| File | Type | Description |
+| --- | --- | --- |
+| rtbserver | exe | Central object repository server |
+| rtbproxy | exe | Layout proxy agent |
+| rtbclient | exe | Universal command line interface |
+| rtbz21 | exe | Z21 emulator integrating hand held Roco WLAN Mouse |
+| rtbftdi | exe | USB helper program scanning the USB for connected FTDI devices |
+| rtbcor | dll | Basic object behavior implementation |
+| rtbrpc | dll | Distributed object behavior implementation (publish/subscriber) |
+
+
 ## Package version format
 ```
 Filename format: RTB_suite_YYYYMMDD.zip
