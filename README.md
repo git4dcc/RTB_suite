@@ -34,5 +34,7 @@ Unzip files into a directory of choice.
 ```
 Filename format: RTB_suite_YYYYMMDD.zip
 ```
+I will manage a maximum of 12 package drops here in GitHub and remove the oldest one as soon as it is reached.
+
 <br>
 This project is intended for hobby use only and is distributed in accordance with the Apache License 2.0 agreement.
