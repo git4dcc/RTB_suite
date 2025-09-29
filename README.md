@@ -34,6 +34,8 @@ Unzip files into a directory of choice.
 ```
 Filename format: RTB_suite_YYYYMMDD.zip
 ```
+Package drops are placed [here](https://github.com/git4dcc/RTB_suite/tree/main/x64).
+<br>
 I will manage a maximum of 12 package drops here in GitHub and remove the oldest one as soon as it is reached.
 
 <br>
