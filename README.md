@@ -5,19 +5,23 @@
 
 Software Suite for running RTB model railway infrastructure.
 
-<details>
-<summary>See also</summary>
-
-- [RTB_C10 - Master](https://github.com/git4dcc/RTB_C10)
-
-</details>
 
 <details>
 <summary>User Guides</summary>
 
-- User Guide - DE
-- [User Guide - EN](https://rtb4dcc.de/rtb_user_guide_en/)
+- [User Guide - DE](https://rtb4dcc.de/rtb_minimal_guide_de/)
+- [User Guide - EN](https://rtb4dcc.de/rtb_minimal_guide_en/)
 
 </details>
 
+<img src="supplemental/images/Overview.jpg">
+
+## Installation
+Unpack files into a directory of choice.
+
+## Package version format
+```
+Filename format: RTB_suite_YYYYMMDD.zip
+```
+<br>
 This project is intended for hobby use only and is distributed in accordance with the Apache License 2.0 agreement.
