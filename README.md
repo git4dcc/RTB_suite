@@ -36,5 +36,8 @@ Filename format: RTB_suite_YYYYMMDD.zip
 ```
 Note: I will manage a maximum of 12 package drops here in GitHub and remove the oldest one as soon as it is reached.
 
-<br>
+# YouTube
+First steps using the RTB suite<br><br>
+[<img src="https://img.youtube.com/vi/YBKRzL3ug-c/0.jpg" width=260>](https://youtu.be/YBKRzL3ug-c)
+
 This project is intended for hobby use only and is distributed in accordance with the Apache License 2.0 agreement.
