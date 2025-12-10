@@ -37,7 +37,17 @@ Filename format: RTB_suite_YYYYMMDD.zip
 Note: I will manage a maximum of 12 package drops here in GitHub and remove the oldest one as soon as it is reached.
 
 # YouTube
-First steps using the RTB suite<br><br>
-[<img src="https://img.youtube.com/vi/YBKRzL3ug-c/0.jpg" width=260>](https://youtu.be/YBKRzL3ug-c)
+A couple of YouTube videos on different use-cases (currently German language, but I plan to redo them in english.<br><br>
+
+| Video #1 | Video #2 | Video #3 |
+| --- | --- | --- |
+| [<img src="https://img.youtube.com/vi/Au-6CpvpdI8/0.jpg" width=310>](https://youtu.be/Au-6CpvpdI8) | [<img src="https://img.youtube.com/vi/YBKRzL3ug-c/0.jpg" width=310>](https://youtu.be/YBKRzL3ug-c) | [<img src="https://img.youtube.com/vi/InFnjWulHMA/0.jpg" width=310>](https://youtu.be/InFnjWulHMA) |
+| Hardware assembly | Automatic decoder detection | Use for my DIY decoder development |
+
+| Video #4 | Video #5 |
+| --- | --- |
+| [<img src="https://img.youtube.com/vi/afoW1E1A6Zc/0.jpg" width=310>](https://youtu.be/afoW1E1A6Zc) | [<img src="https://img.youtube.com/vi/ZyTRiSBSxrk/0.jpg" width=310>](https://youtu.be/ZyTRiSBSxrk) |
+| My DIY decoder SW update | Zimo MS/MN decoder SW update |
+
 
 This project is intended for hobby use only and is distributed in accordance with the Apache License 2.0 agreement.
