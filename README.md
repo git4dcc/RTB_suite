@@ -28,6 +28,8 @@ Download any of the [packages](https://github.com/git4dcc/RTB_suite/tree/main/x6
 | rtbftdi | exe | USB helper program scanning the USB for connected FTDI devices |
 | rtbcor | dll | Basic object behavior implementation |
 | rtbrpc | dll | Distributed object behavior implementation (publish/subscriber) |
+| **FW** | subdir | contains Cxx firmware (.hex) files. Will be installed automatically during startup. |
+
 
 
 ## Package version format
