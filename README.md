@@ -28,15 +28,20 @@ Download any of the [packages](https://github.com/git4dcc/RTB_suite/tree/main/x6
 | rtbftdi | exe | USB helper program scanning the USB for connected FTDI devices |
 | rtbcor | dll | Basic object behavior implementation |
 | rtbrpc | dll | Distributed object behavior implementation (publish/subscriber) |
-| **FW** | subdir | contains Cxx firmware (.hex) files. Will be installed automatically during startup. |
+| **FW** | subdir | :file_folder: contains Cxx firmware (.hex) files. Will be installed automatically during startup. |
 
 
 
 ## Package version format
 ```
-Filename format: RTB_suite_YYYYMMDD.zip
+Filename format: RtbSuite_YYYYMMDD.zip
 ```
 Note: I will manage a maximum of 12 package drops here in GitHub and remove the oldest one as soon as it is reached.
+
+| File | Type | Description |
+| --- | --- | --- |
+| [RtbSuite_20251214](https://github.com/git4dcc/RTB_suite/blob/main/x64/RtbSuite_20251214.zip) | zip | :white_check_mark: **add:** Zimo MDU protocol for MS/MN decoder updates |
+
 
 # YouTube
 A couple of YouTube videos on different use-cases (currently German language, but I plan to redo them in english.<br><br>
