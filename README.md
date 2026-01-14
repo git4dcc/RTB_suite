@@ -31,6 +31,17 @@ Download any of the [packages](https://github.com/git4dcc/RTB_suite/tree/main/x6
 | **FW** | subdir | :file_folder: contains Cxx firmware (.hex) files. Will be installed automatically during startup. |
 
 
+## Startup
++ Connect the C10 via USB
++ Start 'rtbserver.exe' in a command window
++ Start 'rtbproxy.exe' in a command window
+You are now up and running.
+
+
+| Demonstration Video (German) |
+| --- |
+| [<img src="https://img.youtube.com/vi/FtHR6CCo5IE/0.jpg" width=310>](https://youtu.be/FtHR6CCo5IE) |
+
 
 ## Package version format
 ```
