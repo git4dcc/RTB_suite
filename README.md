@@ -44,7 +44,7 @@ Note: I will manage a maximum of 12 package drops here in GitHub and remove the 
 
 
 # YouTube
-A couple of YouTube videos on different use-cases (currently German language, but I plan to redo them in english.<br><br>
+A couple of YouTube videos on different use-cases (currently German language, but I plan to redo them in english).<br><br>
 
 | Video #1 | Video #2 | Video #3 |
 | --- | --- | --- |
