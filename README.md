@@ -52,6 +52,7 @@ Note: I will manage a maximum of 12 package drops here in GitHub and remove the 
 | File | Type | Description |
 | --- | --- | --- |
 | [RtbSuite_20251214](https://github.com/git4dcc/RTB_suite/blob/main/x64/RtbSuite_20251214.zip) | zip | :white_check_mark: **add:** Zimo MDU protocol for MS/MN decoder updates |
+| [RtbSuite_20260115](https://github.com/git4dcc/RTB_suite/blob/main/x64/RtbSuite_20260115.zip) | zip | :white_check_mark: **add:** Zimo DECUP protocol for MX decoder updates |
 
 
 # YouTube
