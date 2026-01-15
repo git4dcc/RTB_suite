@@ -14,7 +14,21 @@ Software Suite for running RTB model railway infrastructure.
 
 </details>
 
+
 <img src="supplemental/images/Overview.jpg">
+
+## Package versions
+```
+Filename format: RtbSuite_YYYYMMDD.zip
+```
+Note: I will manage a maximum of 12 package drops here in GitHub and remove the oldest one as soon as it is reached.
+
+| File | Type | Description |
+| --- | --- | --- |
+| [RtbSuite_20251214](https://github.com/git4dcc/RTB_suite/blob/main/x64/RtbSuite_20251214.zip) | zip | :white_check_mark: **add:** Zimo MDU protocol for MS/MN decoder updates |
+| [RtbSuite_20260115](https://github.com/git4dcc/RTB_suite/blob/main/x64/RtbSuite_20260115.zip) | zip | :white_check_mark: **add:** Zimo DECUP protocol for MX decoder updates |
+
+<br>
 
 ## Installation
 Download any of the [packages](https://github.com/git4dcc/RTB_suite/tree/main/x64) and unzip into a directory of your choice.
@@ -30,37 +44,24 @@ Download any of the [packages](https://github.com/git4dcc/RTB_suite/tree/main/x6
 | rtbrpc | dll | Distributed object behavior implementation (publish/subscriber) |
 | **FW** | subdir | :file_folder: contains Cxx firmware (.hex) files. Will be installed automatically during startup. |
 
+<br>
 
 ## Startup
-+ Connect the C10 via USB
-+ Start 'rtbserver.exe' in a command window
-+ Start 'rtbproxy.exe' in a command window
++ Connect the module via **USB**<br>
++ Start **rtbserver.exe** in a command window
++ Start **rtbproxy.exe** in a command window
+
 You are now up and running.
+[Demo Video (German)](https://youtu.be/FtHR6CCo5IE?t=1m6s)
 
-
-| Demonstration Video (German) |
-| --- |
-| [<img src="https://img.youtube.com/vi/FtHR6CCo5IE/0.jpg" width=310>](https://youtu.be/FtHR6CCo5IE) |
-
-
-## Package version format
-```
-Filename format: RtbSuite_YYYYMMDD.zip
-```
-Note: I will manage a maximum of 12 package drops here in GitHub and remove the oldest one as soon as it is reached.
-
-| File | Type | Description |
-| --- | --- | --- |
-| [RtbSuite_20251214](https://github.com/git4dcc/RTB_suite/blob/main/x64/RtbSuite_20251214.zip) | zip | :white_check_mark: **add:** Zimo MDU protocol for MS/MN decoder updates |
-| [RtbSuite_20260115](https://github.com/git4dcc/RTB_suite/blob/main/x64/RtbSuite_20260115.zip) | zip | :white_check_mark: **add:** Zimo DECUP protocol for MX decoder updates |
-
+<br>
 
 # YouTube
 A couple of YouTube videos on different use-cases (currently German language, but I plan to redo them in english).<br><br>
 
 | Video #1 | Video #2 | Video #3 |
 | --- | --- | --- |
-| [<img src="https://img.youtube.com/vi/Au-6CpvpdI8/0.jpg" width=310>](https://youtu.be/Au-6CpvpdI8) | [<img src="https://img.youtube.com/vi/YBKRzL3ug-c/0.jpg" width=310>](https://youtu.be/YBKRzL3ug-c) | [<img src="https://img.youtube.com/vi/InFnjWulHMA/0.jpg" width=310>](https://youtu.be/InFnjWulHMA) |
+| [<img src="https://img.youtube.com/vi/Au-6CpvpdI8/0.jpg" width=310>](https://youtu.be/Au-6CpvpdI8) | [<img src="https://img.youtube.com/vi/YBKRzL3ug-c/0.jpg" width=310>](https://youtu.be/YBKRzL3ug-c) | [<img src="https://img.youtube.com/vi/InFnjWulHMA/0.jpg" width=310>](https://youtu.be/InFnjWulHMA?t=1m0s) |
 | Hardware assembly | Automatic decoder detection | My DIY decoder development |
 
 | Video #4 | Video #5 | Video #6 |
