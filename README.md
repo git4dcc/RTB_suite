@@ -3,7 +3,8 @@
 [![Real-time Bus (RTB)](https://img.shields.io/badge/RTB_suite-66FF33)](https://github.com/git4dcc/RTB_suite)
 [![Apache License 2.0](https://img.shields.io/badge/license-Apache%20License%202.0-lightgray)](https://www.apache.org/licenses/LICENSE-2.0)
 
-Software Suite for running RTB model railway infrastructure.
+**A distributed, PC-based DCC command station and layout control suite.**<br><br>
+This software generates real-time DCC commands on a host PC and broadcasts them over a low-latency bus to physical layout hardware. The software is designed to run in a distributed environment communicating via IP network
 
 
 <details>
