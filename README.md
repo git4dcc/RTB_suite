@@ -4,7 +4,7 @@
 [![Apache License 2.0](https://img.shields.io/badge/license-Apache%20License%202.0-lightgray)](https://www.apache.org/licenses/LICENSE-2.0)
 
 **A distributed, PC-based DCC command station and layout control suite.**<br><br>
-This software generates real-time DCC commands on a host PC and broadcasts them over a low-latency bus to physical layout hardware. The software is designed to run in a distributed environment communicating via IP network
+Operating in a distributed IP network environment, this software generates real-time DCC commands on a host PC and broadcasts them via a **low-latency bus** to physical layout hardware. It is engineered to scale across multiple systems, ensuring precise and immediate command execution across any size of model railway.
 
 
 <details>
@@ -32,7 +32,8 @@ Note: I will manage a maximum of 12 package drops here in GitHub and remove the 
 <br>
 
 ## Installation
-Download any of the [packages](https://github.com/git4dcc/RTB_suite/tree/main/x64) and unzip into a directory of your choice.
+To deploy the suite, simply download and extract the [packages](https://github.com/git4dcc/RTB_suite/tree/main/x64) into your preferred directory. The software is designed for immediate, out-of-the-box use, requiring no formal installation or uninstallation procedures.
+
 
 | File | Type | Description |
 | --- | --- | --- |
@@ -48,12 +49,11 @@ Download any of the [packages](https://github.com/git4dcc/RTB_suite/tree/main/x6
 <br>
 
 ## Startup
-+ Connect the module via **USB**<br>
-+ Start **rtbserver.exe** in a command window
-+ Start **rtbproxy.exe** in a command window
+Deployment is straightforward and requires no initial configuration. Simply launch the server process first; by default, clients automatically connect via loopback. For distributed setups, users only need to specify the server’s IP or hostname to establish a remote connection.
 
-You are now up and running.
-[Demo Video (German)](https://youtu.be/FtHR6CCo5IE?t=1m6s)
+| Steps | Example Video |
+| --- | --- |
+| <ul><li>Connect the module via **USB**</li><li>Start **rtbserver.exe** in a command window</li><li>Start **rtbproxy.exe** in a command window</li></ul><br>You are now up and running! | [<img src="https://img.youtube.com/vi/FtHR6CCo5IE/0.jpg" width=310>](https://youtu.be/FtHR6CCo5IE?t=1m6s) |
 
 <br>
 
