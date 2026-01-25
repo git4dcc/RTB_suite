@@ -26,13 +26,14 @@ Note: I will manage a maximum of 12 package drops here in GitHub and remove the 
 
 | File | Type | Description |
 | --- | --- | --- |
-| [RtbSuite_20251214](https://codeberg.org/git4dcc/RTB_suite/blob/main/x64/RtbSuite_20251214.zip) | zip | :white_check_mark: **add:** Zimo MDU protocol for MS/MN decoder updates |
-| [RtbSuite_20260115](https://codeberg.org/git4dcc/RTB_suite/blob/main/x64/RtbSuite_20260115.zip) | zip | :white_check_mark: **add:** Zimo DECUP protocol for MX decoder updates |
+| [RtbSuite_20251214](https://github.com/git4dcc/RTB_suite/blob/main/x64/RtbSuite_20251214.zip) | zip | :white_check_mark: **add:** Zimo MDU protocol for MS/MN decoder updates |
+| [RtbSuite_20260115](https://github.com/git4dcc/RTB_suite/blob/main/x64/RtbSuite_20260115.zip) | zip | :white_check_mark: **add:** Zimo DECUP protocol for MX decoder updates |
+| [RtbSuite_20260125](https://github.com/git4dcc/RTB_suite/blob/main/x64/RtbSuite_20260125.zip) | zip | :white_check_mark: **add:** Ghostbuster Service, SX2 para reading |
 
 <br>
 
 ## Installation
-To deploy the suite, simply download and extract the [packages](https://codeberg.org/git4dcc/RTB_suite/tree/main/x64) into your preferred directory. The software is designed for immediate, out-of-the-box use, requiring no formal installation or uninstallation procedures.
+To deploy the suite, simply download and extract the [packages](https://github.com/git4dcc/RTB_suite/tree/main/x64) into your preferred directory. The software is designed for immediate, out-of-the-box use, requiring no formal installation or uninstallation procedures.
 
 
 | File | Type | Description |
@@ -69,6 +70,11 @@ A couple of YouTube videos on different use-cases (currently German language, bu
 | --- | --- | --- |
 | [<img src="https://img.youtube.com/vi/afoW1E1A6Zc/0.jpg" width=310>](https://youtu.be/afoW1E1A6Zc) | [<img src="https://img.youtube.com/vi/ZyTRiSBSxrk/0.jpg" width=310>](https://youtu.be/ZyTRiSBSxrk) | [<img src="https://img.youtube.com/vi/AxBWCUPm_NM/0.jpg" width=310>](https://youtu.be/AxBWCUPm_NM) |
 | My DIY decoder SW update | Zimo MS/MN decoder SW update | Zimo MX decoder SW update |
+
+| Video #7 |
+| --- |
+| [<img src="https://img.youtube.com/vi/5cwDDU8UXBs/0.jpg" width=310>](https://youtu.be/5cwDDU8UXBs) |
+| Railcom Ghostbusting |
 
 
 This project is intended for hobby use only and is distributed in accordance with the Apache License 2.0 agreement.
