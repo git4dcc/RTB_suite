@@ -1,6 +1,6 @@
 # RTB_suite
 [![Real-time Bus (RTB)](https://img.shields.io/badge/RTB_Project-FF6699)](https://www.rtb4dcc.de)
-[![Real-time Bus (RTB)](https://img.shields.io/badge/RTB_suite-66FF33)](https://github.com/git4dcc/RTB_suite)
+[![Real-time Bus (RTB)](https://img.shields.io/badge/RTB_suite-66FF33)](https://codeberg.org/git4dcc/RTB_suite)
 [![Apache License 2.0](https://img.shields.io/badge/license-Apache%20License%202.0-lightgray)](https://www.apache.org/licenses/LICENSE-2.0)
 
 **A distributed, PC-based DCC command station and layout control suite.**<br><br>
@@ -26,13 +26,13 @@ Note: I will manage a maximum of 12 package drops here in GitHub and remove the 
 
 | File | Type | Description |
 | --- | --- | --- |
-| [RtbSuite_20251214](https://codeberg.org/git4dcc/RTB_suite/blob/main/x64/RtbSuite_20251214.zip) | zip | :white_check_mark: **add:** Zimo MDU protocol for MS/MN decoder updates |
-| [RtbSuite_20260115](https://codeberg.org/git4dcc/RTB_suite/blob/main/x64/RtbSuite_20260115.zip) | zip | :white_check_mark: **add:** Zimo DECUP protocol for MX decoder updates |
+| [RtbSuite_20251214](https://codeberg.org/git4dcc/RTB_suite/src/branch/main/x64/RtbSuite_20251214.zip) | zip | :white_check_mark: **add:** Zimo MDU protocol for MS/MN decoder updates |
+| [RtbSuite_20260115](https://codeberg.org/git4dcc/RTB_suite/src/branch/main/x64/RtbSuite_20260115.zip) | zip | :white_check_mark: **add:** Zimo DECUP protocol for MX decoder updates |
 
 <br>
 
 ## Installation
-To deploy the suite, simply download and extract the [packages](https://codeberg.org/git4dcc/RTB_suite/tree/main/x64) into your preferred directory. The software is designed for immediate, out-of-the-box use, requiring no formal installation or uninstallation procedures.
+To deploy the suite, simply download and extract the [packages](https://codeberg.org/git4dcc/RTB_suite/src/branch/main/x64) into your preferred directory. The software is designed for immediate, out-of-the-box use, requiring no formal installation or uninstallation procedures.
 
 
 | File | Type | Description |
