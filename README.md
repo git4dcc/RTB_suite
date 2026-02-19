@@ -71,10 +71,9 @@ A couple of YouTube videos on different use-cases (currently German language, bu
 | [<img src="https://img.youtube.com/vi/afoW1E1A6Zc/0.jpg" width=310>](https://youtu.be/afoW1E1A6Zc) | [<img src="https://img.youtube.com/vi/ZyTRiSBSxrk/0.jpg" width=310>](https://youtu.be/ZyTRiSBSxrk) | [<img src="https://img.youtube.com/vi/AxBWCUPm_NM/0.jpg" width=310>](https://youtu.be/AxBWCUPm_NM) |
 | My DIY decoder SW update | Zimo MS/MN decoder SW update | Zimo MX decoder SW update |
 
-| Video #7 |
-| --- |
-| [<img src="https://img.youtube.com/vi/5cwDDU8UXBs/0.jpg" width=310>](https://youtu.be/5cwDDU8UXBs) |
-| Railcom Ghostbusting |
-
+| Video #7 | Video #8 |
+| --- | --- |
+| [<img src="https://img.youtube.com/vi/5cwDDU8UXBs/0.jpg" width=310>](https://youtu.be/5cwDDU8UXBs) | [<img src="https://img.youtube.com/vi/_8BLXk0jF0M/0.jpg" width=310>](https://youtu.be/_8BLXk0jF0M) |
+| Railcom Ghostbusting | D&H decoder SW update |
 
 This project is intended for hobby use only and is distributed in accordance with the Apache License 2.0 agreement.
