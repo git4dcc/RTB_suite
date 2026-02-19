@@ -1,0 +1,6 @@
+# Directories
+# PLOT/
+
+# Temporary files
+*.bak
+README.md
