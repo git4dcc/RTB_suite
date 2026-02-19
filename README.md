@@ -29,6 +29,7 @@ Note: I will manage a maximum of 12 package drops here in GitHub and remove the 
 | [RtbSuite_20251214](https://github.com/git4dcc/RTB_suite/blob/main/x64/RtbSuite_20251214.zip) | zip | :white_check_mark: **add:** Zimo MDU protocol for MS/MN decoder updates |
 | [RtbSuite_20260115](https://github.com/git4dcc/RTB_suite/blob/main/x64/RtbSuite_20260115.zip) | zip | :white_check_mark: **add:** Zimo DECUP protocol for MX decoder updates |
 | [RtbSuite_20260126](https://github.com/git4dcc/RTB_suite/blob/main/x64/RtbSuite_20260126.zip) | zip | :white_check_mark: **add:** Ghostbuster Service, SX2 para reading |
+| [RtbSuite_20260219](https://github.com/git4dcc/RTB_suite/blob/main/x64/RtbSuite_20260219.zip) | zip | :white_check_mark: **add:** D&H decoder update protocol |
 <br>
 
 ## Installation
