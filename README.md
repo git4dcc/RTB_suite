@@ -26,23 +26,13 @@ Note: I will manage a maximum of 12 package drops here in GitHub and remove the 
 
 | File | Type | Description |
 | --- | --- | --- |
-<<<<<<< HEAD
-| [RtbSuite_20251214](https://codeberg.org/git4dcc/RTB_suite/src/branch/main/x64/RtbSuite_20251214.zip) | zip | :white_check_mark: **add:** Zimo MDU protocol for MS/MN decoder updates |
-| [RtbSuite_20260115](https://codeberg.org/git4dcc/RTB_suite/src/branch/main/x64/RtbSuite_20260115.zip) | zip | :white_check_mark: **add:** Zimo DECUP protocol for MX decoder updates |
-=======
 | [RtbSuite_20251214](https://github.com/git4dcc/RTB_suite/blob/main/x64/RtbSuite_20251214.zip) | zip | :white_check_mark: **add:** Zimo MDU protocol for MS/MN decoder updates |
 | [RtbSuite_20260115](https://github.com/git4dcc/RTB_suite/blob/main/x64/RtbSuite_20260115.zip) | zip | :white_check_mark: **add:** Zimo DECUP protocol for MX decoder updates |
 | [RtbSuite_20260126](https://github.com/git4dcc/RTB_suite/blob/main/x64/RtbSuite_20260126.zip) | zip | :white_check_mark: **add:** Ghostbuster Service, SX2 para reading |
->>>>>>> 1d17ec0bce63a2792dcc1f9dd9bb2ef9b1a3bac9
-
 <br>
 
 ## Installation
-<<<<<<< HEAD
-To deploy the suite, simply download and extract the [packages](https://codeberg.org/git4dcc/RTB_suite/src/branch/main/x64) into your preferred directory. The software is designed for immediate, out-of-the-box use, requiring no formal installation or uninstallation procedures.
-=======
 To deploy the suite, simply download and extract the [packages](https://github.com/git4dcc/RTB_suite/tree/main/x64) into your preferred directory. The software is designed for immediate, out-of-the-box use, requiring no formal installation or uninstallation procedures.
->>>>>>> 1d17ec0bce63a2792dcc1f9dd9bb2ef9b1a3bac9
 
 
 | File | Type | Description |
