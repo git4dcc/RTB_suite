@@ -6,6 +6,8 @@
 **A distributed, PC-based DCC command station and layout control suite.**<br><br>
 Operating in a distributed IP network environment, this software generates real-time DCC commands on a host PC and broadcasts them via a **low-latency bus** to physical layout hardware. It is engineered to scale across multiple systems, ensuring precise and immediate command execution across any size of model railway.
 
+[Download](x64/RtbSuite.zip) the most recent RtbSuite zip.
+<br>
 
 <details>
 <summary>User Guides</summary>
@@ -23,8 +25,6 @@ Operating in a distributed IP network environment, this software generates real-
 Filename format: RtbSuite_YYYYMMDD.zip
 ```
 Note: I will manage a maximum of 12 package drops here in GitHub and remove the oldest one as soon as it is reached.
-
-:star: [Latest RtbSuite ZIP](x64/RtbSuite.zip)
 
 <br>
 
