@@ -24,13 +24,7 @@ Filename format: RtbSuite_YYYYMMDD.zip
 ```
 Note: I will manage a maximum of 12 package drops here in GitHub and remove the oldest one as soon as it is reached.
 
-| File | Type | Description | Current |
-| --- | --- | --- | :---: |
-| [RtbSuite_20251214](x64/RtbSuite_20251214.zip) | zip | :white_check_mark: **add:** Zimo MDU protocol for MS/MN decoder updates | |
-| [RtbSuite_20260115](x64/RtbSuite_20260115.zip) | zip | :white_check_mark: **add:** Zimo DECUP protocol for MX decoder updates | |
-| [RtbSuite_20260126](x64/RtbSuite_20260126.zip) | zip | :white_check_mark: **add:** Ghostbuster Service, SX2 para reading | |
-| [RtbSuite_20260219](x64/RtbSuite_20260219.zip) | zip | :white_check_mark: **add:** D&H Decoder update protocol | |
-| [RtbSuite_20260708](x64/RtbSuite_20260708.zip) | zip | :large_orange_diamond: **mod:** Padding frame fix | :star: |
+:star: [Latest RtbSuite ZIP](x64/RtbSuite.zip)
 
 <br>
 
