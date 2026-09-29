@@ -32,21 +32,27 @@ Note: I will manage a maximum of 12 package drops here in GitHub and remove the 
 To deploy the suite, simply download and extract the [packages](x64) into your preferred directory. The software is designed for immediate, out-of-the-box use, requiring no formal installation or uninstallation procedures.
 
 
-| File | Type | Description |
-| --- | --- | --- |
-| rtbserver | exe | Central object repository server |
-| rtbproxy | exe | Layout proxy agent |
-| rtbclient | exe | Universal command line interface |
-| rtbz21 | exe | Z21 emulator integrating hand held Roco WLAN Mouse |
-| rtbftdi | exe | USB helper program scanning the USB for connected FTDI devices |
-| rtbcor | dll | Basic object behavior implementation |
-| rtbrpc | dll | Distributed object behavior implementation (publish/subscriber) |
+| File | Type | Interface | Description |
+| --- | --- | --- | --- |
+| RtbServerUI | exe | GUI | Central object repository server |
+| RtbProxyUI | exe | GUI | Layout proxy agent |
+| RtbUniversalUI | exe | GUI | Graphical user interface |
+
+| RtbServer | exe | CLI | Central object repository server |
+| RtbProxy | exe | CLI | Layout proxy agent |
+| RtbClient | exe | CLI | Universal command line interface |
+| RtbZ21 | exe | CLI | Z21 emulator integrating hand held Roco WLAN Mouse |
+| RtbFtdi | exe | CLI | USB helper program scanning the USB for connected FTDI devices |
+| RtbCor | dll | --- | Basic object behavior implementation |
+| RtbGui | dll | --- | Graphical UI library |
+| RtbImp | dll | --- | Proxy implementation shared code |
+| RtbRpc | dll | --- | Distributed object behavior implementation (publish/subscriber) |
 | **FW** | subdir | :file_folder: contains Cxx firmware (.hex) files. Will be installed automatically during startup. |
 
 <br>
 
 ## Startup
-Deployment is straightforward and requires no initial configuration. Simply launch the server process first; by default, clients automatically connect via loopback. For distributed setups, users only need to specify the server’s IP or hostname to establish a remote connection.
+Deployment is straightforward and requires no initial configuration. 
 
 | Steps | Example Video |
 | --- | --- |
