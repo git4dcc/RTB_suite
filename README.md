@@ -37,7 +37,6 @@ To deploy the suite, simply download and extract the [packages](x64) into your p
 | RtbServerUI | exe | GUI | Central object repository server |
 | RtbProxyUI | exe | GUI | Layout proxy agent |
 | RtbUniversalUI | exe | GUI | Graphical user interface |
-
 | RtbServer | exe | CLI | Central object repository server |
 | RtbProxy | exe | CLI | Layout proxy agent |
 | RtbClient | exe | CLI | Universal command line interface |
@@ -47,7 +46,7 @@ To deploy the suite, simply download and extract the [packages](x64) into your p
 | RtbGui | dll | --- | Graphical UI library |
 | RtbImp | dll | --- | Proxy implementation shared code |
 | RtbRpc | dll | --- | Distributed object behavior implementation (publish/subscriber) |
-| **FW** | subdir | :file_folder: contains Cxx firmware (.hex) files. Will be installed automatically during startup. |
+| **FW** | subdir | --- | :file_folder: contains Cxx firmware (.hex) files. Will be installed automatically during startup. |
 
 <br>
 
