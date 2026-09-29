@@ -20,6 +20,8 @@ Operating in a distributed IP network environment, this software generates real-
 
 <img src="supplemental/images/Overview.jpg">
 
+<img src="supplemental/images/RtbUniversalUI.png">
+
 ## Package versions
 ```
 Filename format: RtbSuite_YYYYMMDD.zip
