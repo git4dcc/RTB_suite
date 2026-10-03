@@ -37,10 +37,7 @@ To deploy the suite, simply download and extract the [packages](x64) into your p
 | RtbServerUI | exe | GUI | Central object repository server |
 | RtbProxyUI | exe | GUI | Layout proxy agent |
 | RtbUniversalUI | exe | GUI | Graphical user interface |
-| RtbServer | exe | CLI | Central object repository server |
-| RtbProxy | exe | CLI | Layout proxy agent |
 | RtbClient | exe | CLI | Universal command line interface |
-| RtbZ21 | exe | CLI | Z21 emulator integrating hand held Roco WLAN Mouse |
 | RtbFtdi | exe | CLI | USB helper program scanning the USB for connected FTDI devices |
 | RtbCor | dll | --- | Basic object behavior implementation |
 | RtbGui | dll | --- | Graphical UI library |
