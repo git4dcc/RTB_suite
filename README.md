@@ -47,6 +47,15 @@ To deploy the suite, simply download and extract the [packages](x64) into your p
 
 <br>
 
+## GUI Prototype (beta 1)
+A brief demonstration of the GUI (work in progress). Note that the flashing data elements are due to live Railcom updates.
+
+| Steps | Example Video |
+| --- | --- |
+| <ul><li>Clicking through the user interface.</li><li>Testing and operating a few selected decoders</li><li>Reading and writing CV values</li><li>Updating three different decoders</li> | [<img src="https://img.youtube.com/vi/zFyoFd-dKQw/0.jpg">](https://youtu.be/zFyoFd-dKQw) |
+
+<br>
+
 ## Startup
 Deployment is straightforward and requires no initial configuration. 
 
